@@ -1,2 +1,3 @@
-print("Hello lua")
+require "options"
+require "keymaps"
 

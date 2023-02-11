@@ -27,4 +27,7 @@ $ chmod +x init.sh
 $ ./init.sh
 ```
 
+## Useful link
+
+https://www.tohoho-web.com/ex/tmux.html
 

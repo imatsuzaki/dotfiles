@@ -3,4 +3,5 @@ require "src.keymaps"
 require "src.plugins"
 require "src.colorscheme"
 require "src.cmp"
+require "src.lsp"
 
